@@ -1,0 +1,22 @@
+{
+   "autoload": [ ],
+   "bundle_name": "landscape_components",
+   "dependencies": [
+      {
+         "version": "0.1.0",
+         "id": "ds.base"
+      }
+   ],
+   "icon": "",
+   "icon_color": "#999999",
+   "id": "dev.landscape_components",
+   "page_banner": "",
+   "parametrics_form": "",
+   "platform_version": "",
+   "schema_version": "0",
+   "shell_layout": "",
+   "theme": "",
+   "title": "Landscape Components",
+   "vendor": "dev",
+   "version": "0.1.0"
+}
